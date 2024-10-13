@@ -1,9 +1,9 @@
 Hi 👋 My name is POND
 =====================
 
-🎓 My name is Panuwat Petseekeaw, and I am a web developer. I graduated a Bachelor's degree in Computer Science from Khon Kaen University.
+ My name is Panuwat Petseekeaw, and I am a web developer. I graduated a Bachelor's degree in Computer Science from Khon Kaen University.
 
-* ✉️  You can contact me at [panuwat.vyse@gmail.com](mailto:panuwat.vyse@gmail.com)
+* ✉️  Email [panuwat.vyse@gmail.com](mailto:panuwat.vyse@gmail.com)
 
 ### Skills
 
